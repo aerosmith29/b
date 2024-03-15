@@ -1,5 +1,5 @@
 #!/bin/bash
-MYIP=$(wget -qO- ip4.icanhazip.com;
+MYIP=$(wget -qO- ip4.icanhazip.com);
 echo "Checking VPS"
 
 clear 
