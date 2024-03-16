@@ -307,8 +307,8 @@ wget -O restart "https://raw.githubusercontent.com/aerosmith29/b/main/menu/resta
 wget -O bw "https://raw.githubusercontent.com/aerosmith29/b/main/menu/bw.sh"
 
 # change port
-wget -O port-ssl "https://raw.githubusercontent.com/aerosmith29/b/main/port/port-ssl.sh"
-wget -O port-ovpn "https://raw.githubusercontent.com/aerosmith29/b/main/port/port-ovpn.sh"
+wget -O port-ssl "https://raw.githubusercontent.com/aerosmith29/b/main/prot/port-ssl.sh"
+wget -O port-ovpn "https://raw.githubusercontent.com/aerosmith29/b/main/prot/port-ovpn.sh"
 
 
 wget -O xp "https://raw.githubusercontent.com/aerosmith29/b/main/ssh/xp.sh"
